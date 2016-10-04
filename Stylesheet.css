@@ -1,0 +1,96 @@
+body{
+	font-family:"Century Gothic",sans-serif;
+	font-size: 12pt;
+	color:white;
+	
+	background-color:rgb(60,60,60);
+	background-image:url('zonsondergang.jpg');
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	
+	
+	margin:0;
+	padding:0;
+	overflow:auto;
+	}
+#content{
+	float:left;
+	
+	width:60%;
+	min-width:200px;
+	margin-left:5%;
+	}
+#Plitvice{
+	color:green;
+	}
+#plitvicejpg{
+	opacity:1.5;
+}
+#Berlijn{
+	color:orange;
+}
+#berlijnjpg{
+	opacity:1.5;
+}
+header{
+	margin-left:5%;
+}
+
+article{
+	background-color:rgb(21,21,21);
+	opacity:0.9;
+	border:1px solid black;
+	w
+	
+	margin-top: 1em;
+	margin-bottom:1em;
+	
+	padding:0.4em;
+	color:white;
+}
+article img{
+	width:90%;
+	height:90%;
+	border:1px solid black;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+a:hover{
+	color:orange;
+}
+nav ul{padding-left:0;
+}
+nav li{
+	text-decoration:none;
+	display:inline;
+	margin-right:2em;
+	
+}
+nav li a{font-family:tahoma,sans-serif;
+font-size:1.2em;
+padding:0.2em;
+}
+#zoom{
+	float:left;
+	
+	width:100%;
+	min-width:200px;
+	
+	margin-top:0.0em;
+	margin-left:5%;
+	padding:0.5em;
+	
+	font-size:2em;
+	
+	color:white;
+	background-color:#060000;
+	opacity:0.98;
+	
+}
+footer{
+	clear:both;
+	margin-left:5%;
+}

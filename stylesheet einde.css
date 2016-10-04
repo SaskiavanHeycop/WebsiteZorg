@@ -1,0 +1,81 @@
+body{
+	font-family:"Century Gothic",sans-serif;
+	font-size: 12pt;
+	color:red;
+	
+	background-color:rgb(60,60,60);
+	background-image:url('Plaatje einde.jpg');
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	
+	
+	margin:0;
+	padding:0;
+	overflow:auto;
+	}
+#content{
+	float:left;
+	
+	width:60%;
+	min-width:200px;
+	margin-left:5%;
+	}
+	
+#opstaan{
+	font-size:12pt;
+	color:red;
+	width:90%
+}
+
+header{
+	margin-left:5%;
+}
+
+
+
+article{
+	background-color:rgb(255,255,255);
+	opacity:0.8;
+	border:1px solid black;
+	w
+	
+	margin-top:1em;
+	margin-bottom:1em;
+	
+	padding:0.4em;
+	color:black;
+}
+article img{
+	width:90%;
+	height:90%;
+	border:1px solid black;
+}
+a{
+	text-decoration:none;
+	color:green;
+	
+}
+
+
+
+a:hover{
+	color:orange;
+}
+nav ul{padding-left:0;
+}
+nav li{
+	text-decoration:none;
+	display:inline;
+	margin-right:2em;
+	
+}
+nav li a{font-family:tahoma,sans-serif;
+font-size:1.2em;
+padding:0.2em;
+}
+
+footer{
+	clear:both;
+	margin-left:5%;
+}
